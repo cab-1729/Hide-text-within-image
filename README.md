@@ -1,4 +1,4 @@
-# Hide-text-withing-image
+# Hide-text-within-image
 Steganography
 
 This hides text in an Image . The text can be retrieved only if the original image is present . Computerphile has a video on this . This is my take on the video
